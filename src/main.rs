@@ -1,5 +1,5 @@
 use std::env;
-use dotenv::dotenv;
+use dotenvy::dotenv;
 
 fn main() {
     dotenv().ok();
